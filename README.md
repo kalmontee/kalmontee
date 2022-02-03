@@ -1,6 +1,6 @@
 ## Hi there, I'm [Kelvin!](https://github.com/kalmontee) 👋
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/almontek/)](https://www.linkedin.com/in/almontek/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kelvin.almonte95@gmail.com)](mailto:josuecedeno@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kelvin.almonte95@gmail.com)](mailto:kelvin.almonte95@gmail.com)
 [![GitHub Kelvin](https://img.shields.io/github/followers/kalmontee?label=follow&style=social)](https://github.com/kalmontee)
 
 <!--- ## Languages and Tools: ---->
@@ -28,8 +28,8 @@
   
   ## 🌱 I’m currently learning
   ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-  ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
-  ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white)
+  ![Jest](https://img.shields.io/badge/Jest-232F3E?style=flat-square&logo=Jest&logoColor=red)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-232F3E?style=flat-square&logo=TypeScript&logoColor=blue)
 
 ## GitHub Stats
 <!-- ![visitors](https://komarev.com/ghpvc/?username=kalmontee&color=brightgreen) -->
