@@ -8,6 +8,7 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-232F3E?style=flat-square&logo=TypeScript&logoColor=blue)
 <br>
   ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
   ![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
@@ -25,11 +26,11 @@
   ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code)
   ![NPM](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
+  ![Jest](https://img.shields.io/badge/Jest-232F3E?style=flat-square&logo=Jest&logoColor=red)
   
   ## 🌱 I’m currently learning
   ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-  ![Jest](https://img.shields.io/badge/Jest-232F3E?style=flat-square&logo=Jest&logoColor=red)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-232F3E?style=flat-square&logo=TypeScript&logoColor=blue)
+  ![Cypress](https://img.shields.io/badge/Cypress-232F3E?style=flat-square&logo=Cypress&logoColor=brightgreen)
 
 ## GitHub Stats
 <!-- ![visitors](https://komarev.com/ghpvc/?username=kalmontee&color=brightgreen) -->
