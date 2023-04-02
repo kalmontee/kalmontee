@@ -32,6 +32,7 @@
   ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
   ![Cypress](https://img.shields.io/badge/Cypress-232F3E?style=flat-square&logo=Cypress&logoColor=brightgreen)
   ![GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=flat-square&logo=Apollo%20GraphQL&logoColor=white)
+  ![NextJS](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
 ## GitHub Stats
 <!-- ![visitors](https://komarev.com/ghpvc/?username=kalmontee&color=brightgreen) -->
