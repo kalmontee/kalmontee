@@ -3,6 +3,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kelvin.almonte95@gmail.com)](mailto:kelvin.almonte95@gmail.com)
 [![GitHub Kelvin](https://img.shields.io/github/followers/kalmontee?label=follow&style=social)](https://github.com/kalmontee)
 
+<!--![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap) -->
+<!--   ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) -->
+<!--  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) -->
+<!--   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) -->
 <!--- ## Languages and Tools: ---->
 ## 🔭 Tech stack I use
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -13,26 +17,24 @@
   ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
   ![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
   ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
   ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
  <br>
  ![Nodejs](https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white)
-  ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+ ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
  ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
- ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 <br>
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
   ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code)
   ![NPM](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
   ![Jest](https://img.shields.io/badge/Jest-232F3E?style=flat-square&logo=Jest&logoColor=red)
   
   ## 🌱 I’m currently learning
-  ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
   ![Cypress](https://img.shields.io/badge/Cypress-232F3E?style=flat-square&logo=Cypress&logoColor=brightgreen)
   ![GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=flat-square&logo=Apollo%20GraphQL&logoColor=white)
   ![NextJS](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
 
 ## GitHub Stats
 <!-- ![visitors](https://komarev.com/ghpvc/?username=kalmontee&color=brightgreen) -->
