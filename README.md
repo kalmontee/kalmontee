@@ -7,15 +7,16 @@
 <!--   ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) -->
 <!--  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) -->
 <!--   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) -->
+  <!-- ![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) -->
 <!--- ## Languages and Tools: ---->
 ## 🔭 Tech stack I use
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-232F3E?style=flat-square&logo=TypeScript&logoColor=blue)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 <br>
+  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
   ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-  ![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
   ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery)
   ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
  <br>
@@ -30,11 +31,10 @@
   ![Jest](https://img.shields.io/badge/Jest-232F3E?style=flat-square&logo=Jest&logoColor=red)
   
   ## 🌱 I’m currently learning
-  ![Cypress](https://img.shields.io/badge/Cypress-232F3E?style=flat-square&logo=Cypress&logoColor=brightgreen)
+  <!-- ![Cypress](https://img.shields.io/badge/Cypress-232F3E?style=flat-square&logo=Cypress&logoColor=brightgreen) -->
   ![NextJS](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
   <!-- ![GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=flat-square&logo=Apollo%20GraphQL&logoColor=white) -->
-  <!-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) -->
   <!-- ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white) -->
 
 ## GitHub Stats
