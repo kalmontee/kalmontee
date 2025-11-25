@@ -7,7 +7,7 @@
 ---
 
 ### 🧩 Who I Am
-Just a Software Engineer who enjoys making the web cleaner, smoother, and a little more fun to use. Frontend is my home base, TypeScript is my love language, and I have a thing for UI that feels just as good as it looks. I gravitate toward clean, intuitive interfaces backed by solid architecture, and over the last 4+ years, I’ve built scalable, user-friendly applications using Angular, React, TypeScript, Node, and cloud technologies.
+Just a Software Engineer who enjoys making the web cleaner, smoother, and a little more fun to use. Frontend is my home base, JavaScript/TypeScript is my love language, and I have a thing for UI that feels just as good as it looks. I gravitate toward clean, intuitive interfaces backed by solid architecture, and over the last 4+ years, I’ve built scalable, user-friendly applications using Angular, React, TypeScript, Node, and cloud technologies.
 
 I’m big on growth — I switched fields, taught myself modern web development, and I keep pushing to sharpen both my craft and my eye for great design. These days, I’m diving deeper into Next.js, expanding my portfolio, and trying not to redesign my components five times before deploying them (no promises). When I’m not coding, I’m exploring new tech or helping others break into software engineering.
 
